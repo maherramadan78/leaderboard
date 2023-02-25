@@ -36,6 +36,9 @@ body {
   }
   
   .Leaderboard {
+
+  .leaderboard {
+
     border: 2px solid black;
     min-width: 300px;
     display: flex;
@@ -52,6 +55,9 @@ body {
   }
   
   .container-form {
+
+  .form-container {
+
     display: flex;
     flex-direction: column;
     gap: 10px;
