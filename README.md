@@ -71,7 +71,7 @@ For a live demo to our project, follow the link below
 
 - [Live Demo Link](https://github.com/maherramadan78/leaderboard)
 =======
-- [Live Demo Link](comming soon)
+- [Live Demo Link](Comming soon)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -195,7 +195,7 @@ npm run deploy
 
 - GitHub: [@maherramadan78](https://github.com/maherramadan78/leaderboard)
 - Linked in: [@maherramadan78] https://www.linkedin.com/in/maher-ramadan-655623a4/
-- Twitter : (comming soon)
+- Twitter : (Comming soon)
 =======
 
 
