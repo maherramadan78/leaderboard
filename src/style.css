@@ -1,5 +1,5 @@
 body {
-  background: radial-gradient(circle at -8.9% 51.2%, rgb(0, 255, 64) 0%, rgb(179, 255, 0) 15.9%, rgb(193, 255, 77) 15.9%, rgb(255, 157, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+  background: radial-gradient(15.9%, rgb(193, 255, 77) 15.9%, rgb(255, 157, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
   font-family: 'Caveat', cursive;
   margin: 0;
   padding: 0;
@@ -38,7 +38,7 @@ body {
   align-items: center;
   font-size: 26px;
   font-family: 'Arvo', serif;
-  color: rgb(185, 223, 17);
+  color: rgb(110, 223, 17);
 }
 
 .recent-scores-title {
@@ -47,7 +47,7 @@ body {
 }
 
 button {
-  background: rgb(47, 255, 19);
+  background: rgb(255, 172, 19);
   text-align: center;
   width: 80px;
   height: 30px;
