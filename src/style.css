@@ -19,17 +19,19 @@ body {
 }
 
 .main-app {
-  display: flex;
   flex-direction: row;
-  justify-content: center;
   gap: 100px;
   padding: 30px;
 }
 
+.flex {
+  display: flex;
+}
+
+
 .leaderboard-title-container {
   margin: 0;
   padding: 0;
-  display: flex;
   flex-direction: row;
   gap: 10px;
   justify-content: center;
@@ -38,6 +40,7 @@ body {
   font-family: 'Arvo', serif;
   color: rgb(110, 223, 17);
 }
+
 
 .recent-scores-title {
   font-size: 30px;
@@ -67,7 +70,7 @@ button:hover {
   color: rgba(61, 60, 60, 0.743);
   font-family: 'Arvo', serif;
   min-width: 200px;
-  display: flex;
+
   flex-direction: column;
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(107, 107, 107, 0.595);
@@ -127,7 +130,6 @@ button:hover {
 
 form {
   margin-top: 30px;
-  display: flex;
   flex-direction: column;
   gap: 10px;
 }
@@ -147,7 +149,6 @@ input::placeholder {
 }
 
 .form-title {
-  display: flex;
   flex-direction: row;
   gap: 20px;
   justify-content: center;
