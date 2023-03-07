@@ -1,5 +1,4 @@
 
-=======
 # leaderboard
 
 <a name="readme-top"></a>
@@ -43,7 +42,7 @@
 
 
 **[Leaderboard]**
-=======
+
 **[Leaderboard]** The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service. Project part of the Microverse curriculum.
 
 
@@ -70,9 +69,9 @@
 For a live demo to our project, follow the link below
 
 
-- [Live Demo Link](https:https://github.com/maherramadan78/leaderboard)
+- [Live Demo Link](https://github.com/maherramadan78/leaderboard)
 =======
-- [Live Demo Link](https://github.com/maherramadan78/leaderboard.git)
+- [Live Demo Link](Comming soon)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -191,10 +190,12 @@ npm run deploy
 
 
 
+
 👤 **Maher Ramadan**
 
 - GitHub: [@maherramadan78](https://github.com/maherramadan78/leaderboard)
-- 
+- Linked in: [@maherramadan78] https://www.linkedin.com/in/maher-ramadan-655623a4/
+- Twitter : (Comming soon)
 =======
 
 
@@ -247,17 +248,10 @@ Give a ⭐️ if you like this project!
 ## 📝 License <a name="license"></a>
 
 
-This project is [MIT](https://github.com/maherramadan78/Awsome-books-library/blob/master/MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
-This project is [MIT](https://github.com/maherramadan78/leaderboard) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-=======
+
